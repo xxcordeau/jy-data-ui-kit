@@ -45,5 +45,9 @@
     "tree-view",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxcordeau/jy-data-ui-kit"
+  },
   "license": "MIT"
 }
