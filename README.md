@@ -1,4 +1,4 @@
-# @jy/data-ui-kit
+# jy-data-ui-kit
 
 Professional data visualization and management React components built with styled-components.
 
@@ -14,7 +14,7 @@ Professional data visualization and management React components built with style
 ## Installation
 
 ```bash
-npm install @jy/data-ui-kit
+npm install jy-data-ui-kit
 ```
 
 ### Peer Dependencies
@@ -26,7 +26,7 @@ npm install react react-dom styled-components lucide-react recharts
 ## Usage
 
 ```tsx
-import { DataTable, DataChart, TreeView } from '@jy/data-ui-kit';
+import { DataTable, DataChart, TreeView } from 'jy-data-ui-kit';
 
 const columns = [
   { key: 'name', label: 'Name', sortable: true },

@@ -1,5 +1,5 @@
 {
-  "name": "@jy/data-ui-kit",
+  "name": "jy-data-ui-kit",
   "version": "0.1.0",
   "description": "Professional data visualization and management React components",
   "type": "module",
